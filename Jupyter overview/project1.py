@@ -25,3 +25,14 @@ print(f"index is {node.index}")
 print(f"second node is {node1.data}, and its index is {node1.index}, now having the total of {paulmodule.Node.number+1} nodes")
 for i in lON:
     print(i.data," ",end=''),
+    
+    
+print("----------------------------------------------------------------------")
+    
+# let me use revString method from my module "paulmodule"
+
+str=input("Enter an string to reverse it:  ")
+print(paulmodule.revString(str))
+
+# asking for help using showHelp methoh in paulmodule
+paulmodule.showHelp()
