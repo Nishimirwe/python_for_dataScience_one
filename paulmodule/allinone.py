@@ -180,7 +180,7 @@ class SLList:
             self.length-=1
             return x
             
-                  
+ #-----------------------------------------------------------------------------------------------------                 
                 
                 
 # Function to take a python list or tupple and turn it to SLList
@@ -215,4 +215,48 @@ def gcd(a,b):
         return a
     return gcd(b,a%b)
 
+#-----------------------------------------------------------------------------------------------------
 
+# I am going to code a function to download image, by passing name and its online link
+# Note that this function works after importing requests
+
+def downloadImg(name,url):
+    print("Hope you have imported requests library. If not, do it first")
+    img_res=rq.get(url)
+    img_res.status_code
+    img_data=img_res.content
+    with open(name,'wb') as f:
+        f.write(img_data)
+        
+#-----------------------------------------------------------------------------------------------------
+        
+# I am gon import as many libraries as possible
+def importNumpy():
+    import numpy as np
+    print("numpy is imported as np")
+    
+def importPandas():
+    import pandas as pd
+    print("Pandas is imported as pd")
+    
+def importMatPlotLib():
+    import matplotlib.pyplot as plt
+    print("matplotlib is imported as plt")
+    
+def importSeaBorn():
+    import seaborn as sb
+    print("seaborn is imported as sb")
+    
+def importRequests():
+    import requests as rq
+    print("requests is imported as rq")
+    
+def importCV2():
+    import cv2
+    print("cv2 is imported as cv2")
+    
+def importBeautifulSoup():
+    import bs4
+    print("beautifulsoup is imported as bs4")
+
+    
