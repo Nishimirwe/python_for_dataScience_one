@@ -567,7 +567,6 @@ class MinHeap:
     def increaseHeap(self, n):
         self.capacity+=n
 
-
     def extractMin(self):
         if not self.isEmpty():
             if len(self.heap) == 1:
@@ -600,6 +599,8 @@ class MinHeap:
 
         else:
             pass    
+
+
 
 
             
