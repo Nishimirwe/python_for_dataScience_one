@@ -598,8 +598,7 @@ class MinHeap:
                 self.deleteHeapify(self.left(index))
 
         else:
-            pass    
-
+            pass
 
 
 
