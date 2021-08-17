@@ -1,4 +1,16 @@
 import allinone as aio
 
-print(aio.fact(5))
-print(f"GCD of {20} and {10} = {aio.gcd(20,18)}")
+mh=aio.MinHeap(5)
+mh.addNode(34)
+mh.addNode(20)
+mh.addNode(40)
+mh.addNode(14)
+mh.addNode(36)
+mh.increaseHeap(5)
+mh.addNode(2)
+mh.addNode(90)
+mh.addNode(75)
+print(f"Extracted Min Element : {mh.extractMin()}")
+mh.show()
+print(f"Extracted Min Element : {mh.extractMin()}")
+mh.show()
