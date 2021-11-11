@@ -1,0 +1,10 @@
+04500P
+Entrepreneurship
+Spring 2022
+Frank Ike
+Fikita, Nikita, Vikita
+S1000:George Williams:80:90:70:99:60
+S1002:Elaine Hazimana:85:86:78:99:89
+S1003:Peter Pathos:70:90:70:95:91
+S1005:Celestine Taylor:60:95:88:99:100
+S1006:Khalil Abdi:8:2:5:9:8

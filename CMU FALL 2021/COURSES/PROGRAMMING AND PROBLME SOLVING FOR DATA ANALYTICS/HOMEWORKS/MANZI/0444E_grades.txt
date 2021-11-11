@@ -1,0 +1,5 @@
+S1000   George Williams    79.8   C 
+S1002   Elaine Hazimana    87.4   B 
+S1003   Peter Pathos    83.2   B 
+S1005   Celestine Taylor    88.4   B 
+S1006   Khalil Abdi    3.0   E 

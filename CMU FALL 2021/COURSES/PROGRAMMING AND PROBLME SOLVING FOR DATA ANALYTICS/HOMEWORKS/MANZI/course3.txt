@@ -1,0 +1,10 @@
+04444P
+Data structures
+Spring 2021
+Frank Ike
+Fikita, Nikita, Vikita
+S1000:George Williams:80:90:70:99:60
+S1002:Elaine Hazimana:85:86:78:99:89
+S1003:Peter Pathos:70:90:70:95:91
+S1005:Celestine Taylor:16:9:21:0:10
+S1006:Khalil Abdi:0:2:7:2:8

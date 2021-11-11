@@ -1,0 +1,10 @@
+07893E
+Advanced Databases
+Fall 2021
+Eric Muhoza
+Paul, Yves, Quants
+S1000:George Williams:90:70:70:99:67
+S1002:Elaine Hazimana:85:56:78:99:80
+S1003:Peter Pathos:70:71:70:95:100
+S1005:Celestine Taylor:60:85:88:49:100
+S1006:Khalil Abdi:80:82:75:92:86

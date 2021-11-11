@@ -1,0 +1,9 @@
+--------------------------------------------------
+S1006   Khalil Abdi 
+ 
+04808E   Programming and Problem Solving II 83.0  B
+04909E   DPSD 83.0  B
+07893E   Advanced Databases 83.0  B
+04111E   Augmented Reality 68.4  C
+01345F   Data Inference 37.4  E
+--------------------------------------------------

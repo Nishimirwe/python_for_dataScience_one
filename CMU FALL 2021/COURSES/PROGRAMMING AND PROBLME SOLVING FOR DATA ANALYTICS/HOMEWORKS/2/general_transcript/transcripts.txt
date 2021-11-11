@@ -1,0 +1,50 @@
+-------------------------------------------------- 
+S1000   George Williams 
+ 
+04808E  Programming and Problem Solving II  86.4  B 
+04909E  DPSD  83.8  B 
+07893E  Advanced Databases  79.2  C 
+04111E  Augmented Reality  71.0  C 
+01345F  Data Inference  52.2  D 
+-------------------------------------------------- 
+ 
+-------------------------------------------------- 
+S1002   Elaine Hazimana 
+ 
+04808E  Programming and Problem Solving II  87.4  B 
+04909E  DPSD  35.6  E 
+07893E  Advanced Databases  79.6  C 
+04111E  Augmented Reality  85.0  B 
+01345F  Data Inference  86.4  B 
+-------------------------------------------------- 
+ 
+-------------------------------------------------- 
+S1003   Peter Pathos 
+ 
+04808E  Programming and Problem Solving II  83.2  B 
+04909E  DPSD  85.0  B 
+07893E  Advanced Databases  81.2  B 
+04111E  Augmented Reality  71.2  C 
+01345F  Data Inference  63.2  D 
+-------------------------------------------------- 
+ 
+-------------------------------------------------- 
+S1005   Celestine Taylor 
+ 
+04808E  Programming and Problem Solving II  54.4  D 
+04909E  DPSD  49.4  D 
+07893E  Advanced Databases  76.4  C 
+04111E  Augmented Reality  73.4  C 
+01345F  Data Inference  45.6  D 
+-------------------------------------------------- 
+ 
+-------------------------------------------------- 
+S1006   Khalil Abdi 
+ 
+04808E  Programming and Problem Solving II  83.0  B 
+04909E  DPSD  83.0  B 
+07893E  Advanced Databases  83.0  B 
+04111E  Augmented Reality  68.4  C 
+01345F  Data Inference  37.4  E 
+-------------------------------------------------- 
+ 

@@ -1,0 +1,10 @@
+04808E
+Programming and Problem Solving II
+Fall 2021
+Frank Ike
+Fikita, Nikita, Vikita
+S1000:George Williams:82:89:97:90:60
+S1002:Elaine Hazimana:85:86:78:99:89
+S1003:Peter Pathos:70:90:70:95:91
+S1005:Celestine Taylor:60:95:88:99:100
+S1006:Khalil Abdi:80:82:75:92:86

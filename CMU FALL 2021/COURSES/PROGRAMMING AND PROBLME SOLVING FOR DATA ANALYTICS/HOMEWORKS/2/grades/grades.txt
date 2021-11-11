@@ -1,0 +1,10 @@
+rollnum  name         04808E  04909E  07893E   04111E   01345F  Avg 
+ 
+S1000    George Williams    86.4  83.8  79.2  71.0  52.2  74.52 
+S1002    Elaine Hazimana    87.4  35.6  79.6  85.0  86.4  74.80 
+S1003    Peter Pathos    83.2  85.0  81.2  71.2  63.2  76.76 
+S1005    Celestine Taylor    54.4  49.4  76.4  73.4  45.6  59.84 
+S1006    Khalil Abdi    83.0  83.0  83.0  68.4  37.4  70.96 
+
+ 
+Best Student S1003, Peter Pathos

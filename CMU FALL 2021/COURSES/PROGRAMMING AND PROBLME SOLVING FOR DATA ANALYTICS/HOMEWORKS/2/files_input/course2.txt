@@ -1,0 +1,10 @@
+04909E
+DPSD
+Fall 2021
+Cathy Bishop
+Paul, Yves, Quants
+S1000:George Williams:100:90:70:99:60
+S1002:Elaine Hazimana:0:86:78:6:8
+S1003:Peter Pathos:70:90:70:95:100
+S1005:Celestine Taylor:20:65:28:79:55
+S1006:Khalil Abdi:80:82:75:92:86

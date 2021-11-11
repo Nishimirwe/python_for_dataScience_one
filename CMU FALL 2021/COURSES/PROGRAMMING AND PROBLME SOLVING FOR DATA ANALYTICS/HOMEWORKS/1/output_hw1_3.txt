@@ -1,0 +1,1742 @@
+---------------------------------
+Arithmeticerror <class 'type'>
+---------------------------------
+
+Base class for arithmetic errors. 
+Where: <class 'type'> is the the type of <class 'ArithmeticError'>, 
+Retrieved by type(ArithmeticError) 
+  
+---------------------------------
+Assertionerror <class 'type'>
+---------------------------------
+
+Assertion failed. 
+Where: <class 'type'> is the the type of <class 'AssertionError'>, 
+Retrieved by type(AssertionError) 
+  
+---------------------------------
+Attributeerror <class 'type'>
+---------------------------------
+
+Attribute not found. 
+Where: <class 'type'> is the the type of <class 'AttributeError'>, 
+Retrieved by type(AttributeError) 
+  
+---------------------------------
+Baseexception <class 'type'>
+---------------------------------
+
+Common base class for all exceptions 
+Where: <class 'type'> is the the type of <class 'BaseException'>, 
+Retrieved by type(BaseException) 
+  
+---------------------------------
+Blockingioerror <class 'type'>
+---------------------------------
+
+I/O operation would block. 
+Where: <class 'type'> is the the type of <class 'BlockingIOError'>, 
+Retrieved by type(BlockingIOError) 
+  
+---------------------------------
+Brokenpipeerror <class 'type'>
+---------------------------------
+
+Broken pipe. 
+Where: <class 'type'> is the the type of <class 'BrokenPipeError'>, 
+Retrieved by type(BrokenPipeError) 
+  
+---------------------------------
+Buffererror <class 'type'>
+---------------------------------
+
+Buffer error. 
+Where: <class 'type'> is the the type of <class 'BufferError'>, 
+Retrieved by type(BufferError) 
+  
+---------------------------------
+Byteswarning <class 'type'>
+---------------------------------
+
+Base class for warnings about bytes and buffer related problems, mostly
+related to conversion from str or comparing to str. 
+Where: <class 'type'> is the the type of <class 'BytesWarning'>, 
+Retrieved by type(BytesWarning) 
+  
+---------------------------------
+Childprocesserror <class 'type'>
+---------------------------------
+
+Child process error. 
+Where: <class 'type'> is the the type of <class 'ChildProcessError'>, 
+Retrieved by type(ChildProcessError) 
+  
+---------------------------------
+Connectionabortederror <class 'type'>
+---------------------------------
+
+Connection aborted. 
+Where: <class 'type'> is the the type of <class 'ConnectionAbortedError'>, 
+Retrieved by type(ConnectionAbortedError) 
+  
+---------------------------------
+Connectionerror <class 'type'>
+---------------------------------
+
+Connection error. 
+Where: <class 'type'> is the the type of <class 'ConnectionError'>, 
+Retrieved by type(ConnectionError) 
+  
+---------------------------------
+Connectionrefusederror <class 'type'>
+---------------------------------
+
+Connection refused. 
+Where: <class 'type'> is the the type of <class 'ConnectionRefusedError'>, 
+Retrieved by type(ConnectionRefusedError) 
+  
+---------------------------------
+Connectionreseterror <class 'type'>
+---------------------------------
+
+Connection reset. 
+Where: <class 'type'> is the the type of <class 'ConnectionResetError'>, 
+Retrieved by type(ConnectionResetError) 
+  
+---------------------------------
+Deprecationwarning <class 'type'>
+---------------------------------
+
+Base class for warnings about deprecated features. 
+Where: <class 'type'> is the the type of <class 'DeprecationWarning'>, 
+Retrieved by type(DeprecationWarning) 
+  
+---------------------------------
+Eoferror <class 'type'>
+---------------------------------
+
+Read beyond end of file. 
+Where: <class 'type'> is the the type of <class 'EOFError'>, 
+Retrieved by type(EOFError) 
+  
+---------------------------------
+Ellipsis <class 'ellipsis'>
+---------------------------------
+
+None 
+Where: <class 'ellipsis'> is the the type of Ellipsis, 
+Retrieved by type(Ellipsis) 
+  
+---------------------------------
+Environmenterror <class 'type'>
+---------------------------------
+
+Base class for I/O related errors. 
+Where: <class 'type'> is the the type of <class 'OSError'>, 
+Retrieved by type(EnvironmentError) 
+  
+---------------------------------
+Exception <class 'type'>
+---------------------------------
+
+Common base class for all non-exit exceptions. 
+Where: <class 'type'> is the the type of <class 'Exception'>, 
+Retrieved by type(Exception) 
+  
+---------------------------------
+False <class 'bool'>
+---------------------------------
+
+bool(x) -> bool
+
+Returns True when the argument x is true, False otherwise.
+The builtins True and False are the only two instances of the class bool.
+The class bool is a subclass of the class int, and cannot be subclassed. 
+Where: <class 'bool'> is the the type of False, 
+Retrieved by type(False) 
+  
+---------------------------------
+Fileexistserror <class 'type'>
+---------------------------------
+
+File already exists. 
+Where: <class 'type'> is the the type of <class 'FileExistsError'>, 
+Retrieved by type(FileExistsError) 
+  
+---------------------------------
+Filenotfounderror <class 'type'>
+---------------------------------
+
+File not found. 
+Where: <class 'type'> is the the type of <class 'FileNotFoundError'>, 
+Retrieved by type(FileNotFoundError) 
+  
+---------------------------------
+Floatingpointerror <class 'type'>
+---------------------------------
+
+Floating point operation failed. 
+Where: <class 'type'> is the the type of <class 'FloatingPointError'>, 
+Retrieved by type(FloatingPointError) 
+  
+---------------------------------
+Futurewarning <class 'type'>
+---------------------------------
+
+Base class for warnings about constructs that will change semantically
+in the future. 
+Where: <class 'type'> is the the type of <class 'FutureWarning'>, 
+Retrieved by type(FutureWarning) 
+  
+---------------------------------
+Generatorexit <class 'type'>
+---------------------------------
+
+Request that a generator exit. 
+Where: <class 'type'> is the the type of <class 'GeneratorExit'>, 
+Retrieved by type(GeneratorExit) 
+  
+---------------------------------
+Ioerror <class 'type'>
+---------------------------------
+
+Base class for I/O related errors. 
+Where: <class 'type'> is the the type of <class 'OSError'>, 
+Retrieved by type(IOError) 
+  
+---------------------------------
+Importerror <class 'type'>
+---------------------------------
+
+Import can't find module, or can't find name in module. 
+Where: <class 'type'> is the the type of <class 'ImportError'>, 
+Retrieved by type(ImportError) 
+  
+---------------------------------
+Importwarning <class 'type'>
+---------------------------------
+
+Base class for warnings about probable mistakes in module imports 
+Where: <class 'type'> is the the type of <class 'ImportWarning'>, 
+Retrieved by type(ImportWarning) 
+  
+---------------------------------
+Indentationerror <class 'type'>
+---------------------------------
+
+Improper indentation. 
+Where: <class 'type'> is the the type of <class 'IndentationError'>, 
+Retrieved by type(IndentationError) 
+  
+---------------------------------
+Indexerror <class 'type'>
+---------------------------------
+
+Sequence index out of range. 
+Where: <class 'type'> is the the type of <class 'IndexError'>, 
+Retrieved by type(IndexError) 
+  
+---------------------------------
+Interruptederror <class 'type'>
+---------------------------------
+
+Interrupted by signal. 
+Where: <class 'type'> is the the type of <class 'InterruptedError'>, 
+Retrieved by type(InterruptedError) 
+  
+---------------------------------
+Isadirectoryerror <class 'type'>
+---------------------------------
+
+Operation doesn't work on directories. 
+Where: <class 'type'> is the the type of <class 'IsADirectoryError'>, 
+Retrieved by type(IsADirectoryError) 
+  
+---------------------------------
+Keyerror <class 'type'>
+---------------------------------
+
+Mapping key not found. 
+Where: <class 'type'> is the the type of <class 'KeyError'>, 
+Retrieved by type(KeyError) 
+  
+---------------------------------
+Keyboardinterrupt <class 'type'>
+---------------------------------
+
+Program interrupted by user. 
+Where: <class 'type'> is the the type of <class 'KeyboardInterrupt'>, 
+Retrieved by type(KeyboardInterrupt) 
+  
+---------------------------------
+Lookuperror <class 'type'>
+---------------------------------
+
+Base class for lookup errors. 
+Where: <class 'type'> is the the type of <class 'LookupError'>, 
+Retrieved by type(LookupError) 
+  
+---------------------------------
+Memoryerror <class 'type'>
+---------------------------------
+
+Out of memory. 
+Where: <class 'type'> is the the type of <class 'MemoryError'>, 
+Retrieved by type(MemoryError) 
+  
+---------------------------------
+Modulenotfounderror <class 'type'>
+---------------------------------
+
+Module not found. 
+Where: <class 'type'> is the the type of <class 'ModuleNotFoundError'>, 
+Retrieved by type(ModuleNotFoundError) 
+  
+---------------------------------
+Nameerror <class 'type'>
+---------------------------------
+
+Name not found globally. 
+Where: <class 'type'> is the the type of <class 'NameError'>, 
+Retrieved by type(NameError) 
+  
+---------------------------------
+None <class 'NoneType'>
+---------------------------------
+
+None 
+Where: <class 'NoneType'> is the the type of None, 
+Retrieved by type(None) 
+  
+---------------------------------
+Notadirectoryerror <class 'type'>
+---------------------------------
+
+Operation only works on directories. 
+Where: <class 'type'> is the the type of <class 'NotADirectoryError'>, 
+Retrieved by type(NotADirectoryError) 
+  
+---------------------------------
+Notimplemented <class 'NotImplementedType'>
+---------------------------------
+
+None 
+Where: <class 'NotImplementedType'> is the the type of NotImplemented, 
+Retrieved by type(NotImplemented) 
+  
+---------------------------------
+Notimplementederror <class 'type'>
+---------------------------------
+
+Method or function hasn't been implemented yet. 
+Where: <class 'type'> is the the type of <class 'NotImplementedError'>, 
+Retrieved by type(NotImplementedError) 
+  
+---------------------------------
+Oserror <class 'type'>
+---------------------------------
+
+Base class for I/O related errors. 
+Where: <class 'type'> is the the type of <class 'OSError'>, 
+Retrieved by type(OSError) 
+  
+---------------------------------
+Overflowerror <class 'type'>
+---------------------------------
+
+Result too large to be represented. 
+Where: <class 'type'> is the the type of <class 'OverflowError'>, 
+Retrieved by type(OverflowError) 
+  
+---------------------------------
+Pendingdeprecationwarning <class 'type'>
+---------------------------------
+
+Base class for warnings about features which will be deprecated
+in the future. 
+Where: <class 'type'> is the the type of <class 'PendingDeprecationWarning'>, 
+Retrieved by type(PendingDeprecationWarning) 
+  
+---------------------------------
+Permissionerror <class 'type'>
+---------------------------------
+
+Not enough permissions. 
+Where: <class 'type'> is the the type of <class 'PermissionError'>, 
+Retrieved by type(PermissionError) 
+  
+---------------------------------
+Processlookuperror <class 'type'>
+---------------------------------
+
+Process not found. 
+Where: <class 'type'> is the the type of <class 'ProcessLookupError'>, 
+Retrieved by type(ProcessLookupError) 
+  
+---------------------------------
+Recursionerror <class 'type'>
+---------------------------------
+
+Recursion limit exceeded. 
+Where: <class 'type'> is the the type of <class 'RecursionError'>, 
+Retrieved by type(RecursionError) 
+  
+---------------------------------
+Referenceerror <class 'type'>
+---------------------------------
+
+Weak ref proxy used after referent went away. 
+Where: <class 'type'> is the the type of <class 'ReferenceError'>, 
+Retrieved by type(ReferenceError) 
+  
+---------------------------------
+Resourcewarning <class 'type'>
+---------------------------------
+
+Base class for warnings about resource usage. 
+Where: <class 'type'> is the the type of <class 'ResourceWarning'>, 
+Retrieved by type(ResourceWarning) 
+  
+---------------------------------
+Runtimeerror <class 'type'>
+---------------------------------
+
+Unspecified run-time error. 
+Where: <class 'type'> is the the type of <class 'RuntimeError'>, 
+Retrieved by type(RuntimeError) 
+  
+---------------------------------
+Runtimewarning <class 'type'>
+---------------------------------
+
+Base class for warnings about dubious runtime behavior. 
+Where: <class 'type'> is the the type of <class 'RuntimeWarning'>, 
+Retrieved by type(RuntimeWarning) 
+  
+---------------------------------
+Stopasynciteration <class 'type'>
+---------------------------------
+
+Signal the end from iterator.__anext__(). 
+Where: <class 'type'> is the the type of <class 'StopAsyncIteration'>, 
+Retrieved by type(StopAsyncIteration) 
+  
+---------------------------------
+Stopiteration <class 'type'>
+---------------------------------
+
+Signal the end from iterator.__next__(). 
+Where: <class 'type'> is the the type of <class 'StopIteration'>, 
+Retrieved by type(StopIteration) 
+  
+---------------------------------
+Syntaxerror <class 'type'>
+---------------------------------
+
+Invalid syntax. 
+Where: <class 'type'> is the the type of <class 'SyntaxError'>, 
+Retrieved by type(SyntaxError) 
+  
+---------------------------------
+Syntaxwarning <class 'type'>
+---------------------------------
+
+Base class for warnings about dubious syntax. 
+Where: <class 'type'> is the the type of <class 'SyntaxWarning'>, 
+Retrieved by type(SyntaxWarning) 
+  
+---------------------------------
+Systemerror <class 'type'>
+---------------------------------
+
+Internal error in the Python interpreter.
+
+Please report this to the Python maintainer, along with the traceback,
+the Python version, and the hardware/OS platform and version. 
+Where: <class 'type'> is the the type of <class 'SystemError'>, 
+Retrieved by type(SystemError) 
+  
+---------------------------------
+Systemexit <class 'type'>
+---------------------------------
+
+Request to exit from the interpreter. 
+Where: <class 'type'> is the the type of <class 'SystemExit'>, 
+Retrieved by type(SystemExit) 
+  
+---------------------------------
+Taberror <class 'type'>
+---------------------------------
+
+Improper mixture of spaces and tabs. 
+Where: <class 'type'> is the the type of <class 'TabError'>, 
+Retrieved by type(TabError) 
+  
+---------------------------------
+Timeouterror <class 'type'>
+---------------------------------
+
+Timeout expired. 
+Where: <class 'type'> is the the type of <class 'TimeoutError'>, 
+Retrieved by type(TimeoutError) 
+  
+---------------------------------
+True <class 'bool'>
+---------------------------------
+
+bool(x) -> bool
+
+Returns True when the argument x is true, False otherwise.
+The builtins True and False are the only two instances of the class bool.
+The class bool is a subclass of the class int, and cannot be subclassed. 
+Where: <class 'bool'> is the the type of True, 
+Retrieved by type(True) 
+  
+---------------------------------
+Typeerror <class 'type'>
+---------------------------------
+
+Inappropriate argument type. 
+Where: <class 'type'> is the the type of <class 'TypeError'>, 
+Retrieved by type(TypeError) 
+  
+---------------------------------
+Unboundlocalerror <class 'type'>
+---------------------------------
+
+Local name referenced but not bound to a value. 
+Where: <class 'type'> is the the type of <class 'UnboundLocalError'>, 
+Retrieved by type(UnboundLocalError) 
+  
+---------------------------------
+Unicodedecodeerror <class 'type'>
+---------------------------------
+
+Unicode decoding error. 
+Where: <class 'type'> is the the type of <class 'UnicodeDecodeError'>, 
+Retrieved by type(UnicodeDecodeError) 
+  
+---------------------------------
+Unicodeencodeerror <class 'type'>
+---------------------------------
+
+Unicode encoding error. 
+Where: <class 'type'> is the the type of <class 'UnicodeEncodeError'>, 
+Retrieved by type(UnicodeEncodeError) 
+  
+---------------------------------
+Unicodeerror <class 'type'>
+---------------------------------
+
+Unicode related error. 
+Where: <class 'type'> is the the type of <class 'UnicodeError'>, 
+Retrieved by type(UnicodeError) 
+  
+---------------------------------
+Unicodetranslateerror <class 'type'>
+---------------------------------
+
+Unicode translation error. 
+Where: <class 'type'> is the the type of <class 'UnicodeTranslateError'>, 
+Retrieved by type(UnicodeTranslateError) 
+  
+---------------------------------
+Unicodewarning <class 'type'>
+---------------------------------
+
+Base class for warnings about Unicode related problems, mostly
+related to conversion problems. 
+Where: <class 'type'> is the the type of <class 'UnicodeWarning'>, 
+Retrieved by type(UnicodeWarning) 
+  
+---------------------------------
+Userwarning <class 'type'>
+---------------------------------
+
+Base class for warnings generated by user code. 
+Where: <class 'type'> is the the type of <class 'UserWarning'>, 
+Retrieved by type(UserWarning) 
+  
+---------------------------------
+Valueerror <class 'type'>
+---------------------------------
+
+Inappropriate argument value (of correct type). 
+Where: <class 'type'> is the the type of <class 'ValueError'>, 
+Retrieved by type(ValueError) 
+  
+---------------------------------
+Warning <class 'type'>
+---------------------------------
+
+Base class for warning categories. 
+Where: <class 'type'> is the the type of <class 'Warning'>, 
+Retrieved by type(Warning) 
+  
+---------------------------------
+Windowserror <class 'type'>
+---------------------------------
+
+Base class for I/O related errors. 
+Where: <class 'type'> is the the type of <class 'OSError'>, 
+Retrieved by type(WindowsError) 
+  
+---------------------------------
+Zerodivisionerror <class 'type'>
+---------------------------------
+
+Second argument to a division or modulo operation was zero. 
+Where: <class 'type'> is the the type of <class 'ZeroDivisionError'>, 
+Retrieved by type(ZeroDivisionError) 
+  
+---------------------------------
+__build_class__ <class 'builtin_function_or_method'>
+---------------------------------
+
+__build_class__(func, name, /, *bases, [metaclass], **kwds) -> class
+
+Internal helper function used by the class statement. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function __build_class__>, 
+Retrieved by type(__build_class__) 
+  
+---------------------------------
+__debug__ <class 'bool'>
+---------------------------------
+
+bool(x) -> bool
+
+Returns True when the argument x is true, False otherwise.
+The builtins True and False are the only two instances of the class bool.
+The class bool is a subclass of the class int, and cannot be subclassed. 
+Where: <class 'bool'> is the the type of True, 
+Retrieved by type(__debug__) 
+  
+---------------------------------
+__doc__ <class 'NoneType'>
+---------------------------------
+
+None 
+Where: <class 'NoneType'> is the the type of None, 
+Retrieved by type(__doc__) 
+  
+---------------------------------
+__import__ <class 'builtin_function_or_method'>
+---------------------------------
+
+__import__(name, globals=None, locals=None, fromlist=(), level=0) -> module
+
+Import a module. Because this function is meant for use by the Python
+interpreter and not for general use, it is better to use
+importlib.import_module() to programmatically import a module.
+
+The globals argument is only used to determine the context;
+they are not modified.  The locals argument is unused.  The fromlist
+should be a list of names to emulate ``from name import ...'', or an
+empty list to emulate ``import name''.
+When importing a module from a package, note that __import__('A.B', ...)
+returns package A when fromlist is empty, but its submodule B when
+fromlist is not empty.  The level argument is used to determine whether to
+perform absolute or relative imports: 0 is absolute, while a positive number
+is the number of parent directories to search relative to the current module. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function __import__>, 
+Retrieved by type(__import__) 
+  
+---------------------------------
+__loader__ <class '_frozen_importlib_external.SourceFileLoader'>
+---------------------------------
+
+Concrete implementation of SourceLoader using the file system. 
+Where: <class '_frozen_importlib_external.SourceFileLoader'> is the the type of <_frozen_importlib_external.SourceFileLoader object at 0x000001BCB9190AF0>, 
+Retrieved by type(__loader__) 
+  
+---------------------------------
+__name__ <class 'str'>
+---------------------------------
+
+str(object='') -> str
+str(bytes_or_buffer[, encoding[, errors]]) -> str
+
+Create a new string object from the given object. If encoding or
+errors is specified, then the object must expose a data buffer
+that will be decoded using the given encoding and error handler.
+Otherwise, returns the result of object.__str__() (if defined)
+or repr(object).
+encoding defaults to sys.getdefaultencoding().
+errors defaults to 'strict'. 
+Where: <class 'str'> is the the type of __main__, 
+Retrieved by type(__name__) 
+  
+---------------------------------
+__package__ <class 'NoneType'>
+---------------------------------
+
+None 
+Where: <class 'NoneType'> is the the type of None, 
+Retrieved by type(__package__) 
+  
+---------------------------------
+__spec__ <class 'NoneType'>
+---------------------------------
+
+None 
+Where: <class 'NoneType'> is the the type of None, 
+Retrieved by type(__spec__) 
+  
+---------------------------------
+Abs <class 'builtin_function_or_method'>
+---------------------------------
+
+Return the absolute value of the argument. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function abs>, 
+Retrieved by type(abs) 
+  
+---------------------------------
+All <class 'builtin_function_or_method'>
+---------------------------------
+
+Return True if bool(x) is True for all values x in the iterable.
+
+If the iterable is empty, return True. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function all>, 
+Retrieved by type(all) 
+  
+---------------------------------
+Any <class 'builtin_function_or_method'>
+---------------------------------
+
+Return True if bool(x) is True for any x in the iterable.
+
+If the iterable is empty, return False. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function any>, 
+Retrieved by type(any) 
+  
+---------------------------------
+Ascii <class 'builtin_function_or_method'>
+---------------------------------
+
+Return an ASCII-only representation of an object.
+
+As repr(), return a string containing a printable representation of an
+object, but escape the non-ASCII characters in the string returned by
+repr() using \\x, \\u or \\U escapes. This generates a string similar
+to that returned by repr() in Python 2. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function ascii>, 
+Retrieved by type(ascii) 
+  
+---------------------------------
+Bin <class 'builtin_function_or_method'>
+---------------------------------
+
+Return the binary representation of an integer.
+
+   >>> bin(2796202)
+   '0b1010101010101010101010' 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function bin>, 
+Retrieved by type(bin) 
+  
+---------------------------------
+Bool <class 'type'>
+---------------------------------
+
+bool(x) -> bool
+
+Returns True when the argument x is true, False otherwise.
+The builtins True and False are the only two instances of the class bool.
+The class bool is a subclass of the class int, and cannot be subclassed. 
+Where: <class 'type'> is the the type of <class 'bool'>, 
+Retrieved by type(bool) 
+  
+---------------------------------
+Breakpoint <class 'builtin_function_or_method'>
+---------------------------------
+
+breakpoint(*args, **kws)
+
+Call sys.breakpointhook(*args, **kws).  sys.breakpointhook() must accept
+whatever arguments are passed.
+
+By default, this drops you into the pdb debugger. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function breakpoint>, 
+Retrieved by type(breakpoint) 
+  
+---------------------------------
+Bytearray <class 'type'>
+---------------------------------
+
+bytearray(iterable_of_ints) -> bytearray
+bytearray(string, encoding[, errors]) -> bytearray
+bytearray(bytes_or_buffer) -> mutable copy of bytes_or_buffer
+bytearray(int) -> bytes array of size given by the parameter initialized with null bytes
+bytearray() -> empty bytes array
+
+Construct a mutable bytearray object from:
+  - an iterable yielding integers in range(256)
+  - a text string encoded using the specified encoding
+  - a bytes or a buffer object
+  - any object implementing the buffer API.
+  - an integer 
+Where: <class 'type'> is the the type of <class 'bytearray'>, 
+Retrieved by type(bytearray) 
+  
+---------------------------------
+Bytes <class 'type'>
+---------------------------------
+
+bytes(iterable_of_ints) -> bytes
+bytes(string, encoding[, errors]) -> bytes
+bytes(bytes_or_buffer) -> immutable copy of bytes_or_buffer
+bytes(int) -> bytes object of size given by the parameter initialized with null bytes
+bytes() -> empty bytes object
+
+Construct an immutable array of bytes from:
+  - an iterable yielding integers in range(256)
+  - a text string encoded using the specified encoding
+  - any object implementing the buffer API.
+  - an integer 
+Where: <class 'type'> is the the type of <class 'bytes'>, 
+Retrieved by type(bytes) 
+  
+---------------------------------
+Callable <class 'builtin_function_or_method'>
+---------------------------------
+
+Return whether the object is callable (i.e., some kind of function).
+
+Note that classes are callable, as are instances of classes with a
+__call__() method. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function callable>, 
+Retrieved by type(callable) 
+  
+---------------------------------
+Chr <class 'builtin_function_or_method'>
+---------------------------------
+
+Return a Unicode string of one character with ordinal i; 0 <= i <= 0x10ffff. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function chr>, 
+Retrieved by type(chr) 
+  
+---------------------------------
+Classmethod <class 'type'>
+---------------------------------
+
+classmethod(function) -> method
+
+Convert a function to be a class method.
+
+A class method receives the class as implicit first argument,
+just like an instance method receives the instance.
+To declare a class method, use this idiom:
+
+  class C:
+      @classmethod
+      def f(cls, arg1, arg2, ...):
+          ...
+
+It can be called either on the class (e.g. C.f()) or on an instance
+(e.g. C().f()).  The instance is ignored except for its class.
+If a class method is called for a derived class, the derived class
+object is passed as the implied first argument.
+
+Class methods are different than C++ or Java static methods.
+If you want those, see the staticmethod builtin. 
+Where: <class 'type'> is the the type of <class 'classmethod'>, 
+Retrieved by type(classmethod) 
+  
+---------------------------------
+Compile <class 'builtin_function_or_method'>
+---------------------------------
+
+Compile source into a code object that can be executed by exec() or eval().
+
+The source code may represent a Python module, statement or expression.
+The filename will be used for run-time error messages.
+The mode must be 'exec' to compile a module, 'single' to compile a
+single (interactive) statement, or 'eval' to compile an expression.
+The flags argument, if present, controls which future statements influence
+the compilation of the code.
+The dont_inherit argument, if true, stops the compilation inheriting
+the effects of any future statements in effect in the code calling
+compile; if absent or false these statements do influence the compilation,
+in addition to any features explicitly specified. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function compile>, 
+Retrieved by type(compile) 
+  
+---------------------------------
+Complex <class 'type'>
+---------------------------------
+
+Create a complex number from a real part and an optional imaginary part.
+
+This is equivalent to (real + imag*1j) where imag defaults to 0. 
+Where: <class 'type'> is the the type of <class 'complex'>, 
+Retrieved by type(complex) 
+  
+---------------------------------
+Copyright <class '_sitebuiltins._Printer'>
+---------------------------------
+
+interactive prompt objects for printing the license text, a list of
+    contributors and the copyright notice. 
+Where: <class '_sitebuiltins._Printer'> is the the type of Copyright (c) 2001-2020 Python Software Foundation.
+All Rights Reserved.
+
+Copyright (c) 2000 BeOpen.com.
+All Rights Reserved.
+
+Copyright (c) 1995-2001 Corporation for National Research Initiatives.
+All Rights Reserved.
+
+Copyright (c) 1991-1995 Stichting Mathematisch Centrum, Amsterdam.
+All Rights Reserved., 
+Retrieved by type(copyright) 
+  
+---------------------------------
+Credits <class '_sitebuiltins._Printer'>
+---------------------------------
+
+interactive prompt objects for printing the license text, a list of
+    contributors and the copyright notice. 
+Where: <class '_sitebuiltins._Printer'> is the the type of     Thanks to CWI, CNRI, BeOpen.com, Zope Corporation and a cast of thousands
+    for supporting Python development.  See www.python.org for more information., 
+Retrieved by type(credits) 
+  
+---------------------------------
+Delattr <class 'builtin_function_or_method'>
+---------------------------------
+
+Deletes the named attribute from the given object.
+
+delattr(x, 'y') is equivalent to ``del x.y'' 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function delattr>, 
+Retrieved by type(delattr) 
+  
+---------------------------------
+Dict <class 'type'>
+---------------------------------
+
+dict() -> new empty dictionary
+dict(mapping) -> new dictionary initialized from a mapping object's
+    (key, value) pairs
+dict(iterable) -> new dictionary initialized as if via:
+    d = {}
+    for k, v in iterable:
+        d[k] = v
+dict(**kwargs) -> new dictionary initialized with the name=value pairs
+    in the keyword argument list.  For example:  dict(one=1, two=2) 
+Where: <class 'type'> is the the type of <class 'dict'>, 
+Retrieved by type(dict) 
+  
+---------------------------------
+Dir <class 'builtin_function_or_method'>
+---------------------------------
+
+dir([object]) -> list of strings
+
+If called without an argument, return the names in the current scope.
+Else, return an alphabetized list of names comprising (some of) the attributes
+of the given object, and of attributes reachable from it.
+If the object supplies a method named __dir__, it will be used; otherwise
+the default dir() logic is used and returns:
+  for a module object: the module's attributes.
+  for a class object:  its attributes, and recursively the attributes
+    of its bases.
+  for any other object: its attributes, its class's attributes, and
+    recursively the attributes of its class's base classes. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function dir>, 
+Retrieved by type(dir) 
+  
+---------------------------------
+Divmod <class 'builtin_function_or_method'>
+---------------------------------
+
+Return the tuple (x//y, x%y).  Invariant: div*y + mod == x. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function divmod>, 
+Retrieved by type(divmod) 
+  
+---------------------------------
+Enumerate <class 'type'>
+---------------------------------
+
+Return an enumerate object.
+
+  iterable
+    an object supporting iteration
+
+The enumerate object yields pairs containing a count (from start, which
+defaults to zero) and a value yielded by the iterable argument.
+
+enumerate is useful for obtaining an indexed list:
+    (0, seq[0]), (1, seq[1]), (2, seq[2]), ... 
+Where: <class 'type'> is the the type of <class 'enumerate'>, 
+Retrieved by type(enumerate) 
+  
+---------------------------------
+Eval <class 'builtin_function_or_method'>
+---------------------------------
+
+Evaluate the given source in the context of globals and locals.
+
+The source may be a string representing a Python expression
+or a code object as returned by compile().
+The globals must be a dictionary and locals can be any mapping,
+defaulting to the current globals and locals.
+If only globals is given, locals defaults to it. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function eval>, 
+Retrieved by type(eval) 
+  
+---------------------------------
+Exec <class 'builtin_function_or_method'>
+---------------------------------
+
+Execute the given source in the context of globals and locals.
+
+The source may be a string representing one or more Python statements
+or a code object as returned by compile().
+The globals must be a dictionary and locals can be any mapping,
+defaulting to the current globals and locals.
+If only globals is given, locals defaults to it. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function exec>, 
+Retrieved by type(exec) 
+  
+---------------------------------
+Exit <class '_sitebuiltins.Quitter'>
+---------------------------------
+
+None 
+Where: <class '_sitebuiltins.Quitter'> is the the type of Use exit() or Ctrl-Z plus Return to exit, 
+Retrieved by type(exit) 
+  
+---------------------------------
+Filter <class 'type'>
+---------------------------------
+
+filter(function or None, iterable) --> filter object
+
+Return an iterator yielding those items of iterable for which function(item)
+is true. If function is None, return the items that are true. 
+Where: <class 'type'> is the the type of <class 'filter'>, 
+Retrieved by type(filter) 
+  
+---------------------------------
+Float <class 'type'>
+---------------------------------
+
+Convert a string or number to a floating point number, if possible. 
+Where: <class 'type'> is the the type of <class 'float'>, 
+Retrieved by type(float) 
+  
+---------------------------------
+Format <class 'builtin_function_or_method'>
+---------------------------------
+
+Return value.__format__(format_spec)
+
+format_spec defaults to the empty string.
+See the Format Specification Mini-Language section of help('FORMATTING') for
+details. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function format>, 
+Retrieved by type(format) 
+  
+---------------------------------
+Frozenset <class 'type'>
+---------------------------------
+
+frozenset() -> empty frozenset object
+frozenset(iterable) -> frozenset object
+
+Build an immutable unordered collection of unique elements. 
+Where: <class 'type'> is the the type of <class 'frozenset'>, 
+Retrieved by type(frozenset) 
+  
+---------------------------------
+Getattr <class 'builtin_function_or_method'>
+---------------------------------
+
+getattr(object, name[, default]) -> value
+
+Get a named attribute from an object; getattr(x, 'y') is equivalent to x.y.
+When a default argument is given, it is returned when the attribute doesn't
+exist; without it, an exception is raised in that case. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function getattr>, 
+Retrieved by type(getattr) 
+  
+---------------------------------
+Globals <class 'builtin_function_or_method'>
+---------------------------------
+
+Return the dictionary containing the current scope's global variables.
+
+NOTE: Updates to this dictionary *will* affect name lookups in the current
+global scope and vice-versa. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function globals>, 
+Retrieved by type(globals) 
+  
+---------------------------------
+Hasattr <class 'builtin_function_or_method'>
+---------------------------------
+
+Return whether the object has an attribute with the given name.
+
+This is done by calling getattr(obj, name) and catching AttributeError. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function hasattr>, 
+Retrieved by type(hasattr) 
+  
+---------------------------------
+Hash <class 'builtin_function_or_method'>
+---------------------------------
+
+Return the hash value for the given object.
+
+Two objects that compare equal must also have the same hash value, but the
+reverse is not necessarily true. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function hash>, 
+Retrieved by type(hash) 
+  
+---------------------------------
+Help <class '_sitebuiltins._Helper'>
+---------------------------------
+
+Define the builtin 'help'.
+
+    This is a wrapper around pydoc.help that provides a helpful message
+    when 'help' is typed at the Python interactive prompt.
+
+    Calling help() at the Python prompt starts an interactive help session.
+    Calling help(thing) prints help for the python object 'thing'.
+     
+Where: <class '_sitebuiltins._Helper'> is the the type of Type help() for interactive help, or help(object) for help about object., 
+Retrieved by type(help) 
+  
+---------------------------------
+Hex <class 'builtin_function_or_method'>
+---------------------------------
+
+Return the hexadecimal representation of an integer.
+
+   >>> hex(12648430)
+   '0xc0ffee' 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function hex>, 
+Retrieved by type(hex) 
+  
+---------------------------------
+Id <class 'builtin_function_or_method'>
+---------------------------------
+
+Return the identity of an object.
+
+This is guaranteed to be unique among simultaneously existing objects.
+(CPython uses the object's memory address.) 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function id>, 
+Retrieved by type(id) 
+  
+---------------------------------
+Input <class 'builtin_function_or_method'>
+---------------------------------
+
+Read a string from standard input.  The trailing newline is stripped.
+
+The prompt string, if given, is printed to standard output without a
+trailing newline before reading input.
+
+If the user hits EOF (*nix: Ctrl-D, Windows: Ctrl-Z+Return), raise EOFError.
+On *nix systems, readline is used if available. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function input>, 
+Retrieved by type(input) 
+  
+---------------------------------
+Int <class 'type'>
+---------------------------------
+
+int([x]) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4 
+Where: <class 'type'> is the the type of <class 'int'>, 
+Retrieved by type(int) 
+  
+---------------------------------
+Isinstance <class 'builtin_function_or_method'>
+---------------------------------
+
+Return whether an object is an instance of a class or of a subclass thereof.
+
+A tuple, as in ``isinstance(x, (A, B, ...))``, may be given as the target to
+check against. This is equivalent to ``isinstance(x, A) or isinstance(x, B)
+or ...`` etc. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function isinstance>, 
+Retrieved by type(isinstance) 
+  
+---------------------------------
+Issubclass <class 'builtin_function_or_method'>
+---------------------------------
+
+Return whether 'cls' is a derived from another class or is the same class.
+
+A tuple, as in ``issubclass(x, (A, B, ...))``, may be given as the target to
+check against. This is equivalent to ``issubclass(x, A) or issubclass(x, B)
+or ...`` etc. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function issubclass>, 
+Retrieved by type(issubclass) 
+  
+---------------------------------
+Iter <class 'builtin_function_or_method'>
+---------------------------------
+
+iter(iterable) -> iterator
+iter(callable, sentinel) -> iterator
+
+Get an iterator from an object.  In the first form, the argument must
+supply its own iterator, or be a sequence.
+In the second form, the callable is called until it returns the sentinel. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function iter>, 
+Retrieved by type(iter) 
+  
+---------------------------------
+Len <class 'builtin_function_or_method'>
+---------------------------------
+
+Return the number of items in a container. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function len>, 
+Retrieved by type(len) 
+  
+---------------------------------
+License <class '_sitebuiltins._Printer'>
+---------------------------------
+
+interactive prompt objects for printing the license text, a list of
+    contributors and the copyright notice. 
+Where: <class '_sitebuiltins._Printer'> is the the type of See https://www.python.org/psf/license/, 
+Retrieved by type(license) 
+  
+---------------------------------
+List <class 'type'>
+---------------------------------
+
+Built-in mutable sequence.
+
+If no argument is given, the constructor creates a new empty list.
+The argument must be an iterable if specified. 
+Where: <class 'type'> is the the type of <class 'list'>, 
+Retrieved by type(list) 
+  
+---------------------------------
+Locals <class 'builtin_function_or_method'>
+---------------------------------
+
+Return a dictionary containing the current scope's local variables.
+
+NOTE: Whether or not updates to this dictionary will affect name lookups in
+the local scope and vice-versa is *implementation dependent* and not
+covered by any backwards compatibility guarantees. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function locals>, 
+Retrieved by type(locals) 
+  
+---------------------------------
+Map <class 'type'>
+---------------------------------
+
+map(func, *iterables) --> map object
+
+Make an iterator that computes the function using arguments from
+each of the iterables.  Stops when the shortest iterable is exhausted. 
+Where: <class 'type'> is the the type of <class 'map'>, 
+Retrieved by type(map) 
+  
+---------------------------------
+Max <class 'builtin_function_or_method'>
+---------------------------------
+
+max(iterable, *[, default=obj, key=func]) -> value
+max(arg1, arg2, *args, *[, key=func]) -> value
+
+With a single iterable argument, return its biggest item. The
+default keyword-only argument specifies an object to return if
+the provided iterable is empty.
+With two or more arguments, return the largest argument. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function max>, 
+Retrieved by type(max) 
+  
+---------------------------------
+Memoryview <class 'type'>
+---------------------------------
+
+Create a new memoryview object which references the given object. 
+Where: <class 'type'> is the the type of <class 'memoryview'>, 
+Retrieved by type(memoryview) 
+  
+---------------------------------
+Min <class 'builtin_function_or_method'>
+---------------------------------
+
+min(iterable, *[, default=obj, key=func]) -> value
+min(arg1, arg2, *args, *[, key=func]) -> value
+
+With a single iterable argument, return its smallest item. The
+default keyword-only argument specifies an object to return if
+the provided iterable is empty.
+With two or more arguments, return the smallest argument. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function min>, 
+Retrieved by type(min) 
+  
+---------------------------------
+Next <class 'builtin_function_or_method'>
+---------------------------------
+
+next(iterator[, default])
+
+Return the next item from the iterator. If default is given and the iterator
+is exhausted, it is returned instead of raising StopIteration. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function next>, 
+Retrieved by type(next) 
+  
+---------------------------------
+Object <class 'type'>
+---------------------------------
+
+The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ 
+Where: <class 'type'> is the the type of <class 'object'>, 
+Retrieved by type(object) 
+  
+---------------------------------
+Oct <class 'builtin_function_or_method'>
+---------------------------------
+
+Return the octal representation of an integer.
+
+   >>> oct(342391)
+   '0o1234567' 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function oct>, 
+Retrieved by type(oct) 
+  
+---------------------------------
+Open <class 'builtin_function_or_method'>
+---------------------------------
+
+Open file and return a stream.  Raise OSError upon failure.
+
+file is either a text or byte string giving the name (and the path
+if the file isn't in the current working directory) of the file to
+be opened or an integer file descriptor of the file to be
+wrapped. (If a file descriptor is given, it is closed when the
+returned I/O object is closed, unless closefd is set to False.)
+
+mode is an optional string that specifies the mode in which the file
+is opened. It defaults to 'r' which means open for reading in text
+mode.  Other common values are 'w' for writing (truncating the file if
+it already exists), 'x' for creating and writing to a new file, and
+'a' for appending (which on some Unix systems, means that all writes
+append to the end of the file regardless of the current seek position).
+In text mode, if encoding is not specified the encoding used is platform
+dependent: locale.getpreferredencoding(False) is called to get the
+current locale encoding. (For reading and writing raw bytes use binary
+mode and leave encoding unspecified.) The available modes are:
+
+========= ===============================================================
+Character Meaning
+--------- ---------------------------------------------------------------
+'r'       open for reading (default)
+'w'       open for writing, truncating the file first
+'x'       create a new file and open it for writing
+'a'       open for writing, appending to the end of the file if it exists
+'b'       binary mode
+'t'       text mode (default)
+'+'       open a disk file for updating (reading and writing)
+'U'       universal newline mode (deprecated)
+========= ===============================================================
+
+The default mode is 'rt' (open for reading text). For binary random
+access, the mode 'w+b' opens and truncates the file to 0 bytes, while
+'r+b' opens the file without truncation. The 'x' mode implies 'w' and
+raises an `FileExistsError` if the file already exists.
+
+Python distinguishes between files opened in binary and text modes,
+even when the underlying operating system doesn't. Files opened in
+binary mode (appending 'b' to the mode argument) return contents as
+bytes objects without any decoding. In text mode (the default, or when
+'t' is appended to the mode argument), the contents of the file are
+returned as strings, the bytes having been first decoded using a
+platform-dependent encoding or using the specified encoding if given.
+
+'U' mode is deprecated and will raise an exception in future versions
+of Python.  It has no effect in Python 3.  Use newline to control
+universal newlines mode.
+
+buffering is an optional integer used to set the buffering policy.
+Pass 0 to switch buffering off (only allowed in binary mode), 1 to select
+line buffering (only usable in text mode), and an integer > 1 to indicate
+the size of a fixed-size chunk buffer.  When no buffering argument is
+given, the default buffering policy works as follows:
+
+* Binary files are buffered in fixed-size chunks; the size of the buffer
+  is chosen using a heuristic trying to determine the underlying device's
+  "block size" and falling back on `io.DEFAULT_BUFFER_SIZE`.
+  On many systems, the buffer will typically be 4096 or 8192 bytes long.
+
+* "Interactive" text files (files for which isatty() returns True)
+  use line buffering.  Other text files use the policy described above
+  for binary files.
+
+encoding is the name of the encoding used to decode or encode the
+file. This should only be used in text mode. The default encoding is
+platform dependent, but any encoding supported by Python can be
+passed.  See the codecs module for the list of supported encodings.
+
+errors is an optional string that specifies how encoding errors are to
+be handled---this argument should not be used in binary mode. Pass
+'strict' to raise a ValueError exception if there is an encoding error
+(the default of None has the same effect), or pass 'ignore' to ignore
+errors. (Note that ignoring encoding errors can lead to data loss.)
+See the documentation for codecs.register or run 'help(codecs.Codec)'
+for a list of the permitted encoding error strings.
+
+newline controls how universal newlines works (it only applies to text
+mode). It can be None, '', '\n', '\r', and '\r\n'.  It works as
+follows:
+
+* On input, if newline is None, universal newlines mode is
+  enabled. Lines in the input can end in '\n', '\r', or '\r\n', and
+  these are translated into '\n' before being returned to the
+  caller. If it is '', universal newline mode is enabled, but line
+  endings are returned to the caller untranslated. If it has any of
+  the other legal values, input lines are only terminated by the given
+  string, and the line ending is returned to the caller untranslated.
+
+* On output, if newline is None, any '\n' characters written are
+  translated to the system default line separator, os.linesep. If
+  newline is '' or '\n', no translation takes place. If newline is any
+  of the other legal values, any '\n' characters written are translated
+  to the given string.
+
+If closefd is False, the underlying file descriptor will be kept open
+when the file is closed. This does not work when a file name is given
+and must be True in that case.
+
+A custom opener can be used by passing a callable as *opener*. The
+underlying file descriptor for the file object is then obtained by
+calling *opener* with (*file*, *flags*). *opener* must return an open
+file descriptor (passing os.open as *opener* results in functionality
+similar to passing None).
+
+open() returns a file object whose type depends on the mode, and
+through which the standard file operations such as reading and writing
+are performed. When open() is used to open a file in a text mode ('w',
+'r', 'wt', 'rt', etc.), it returns a TextIOWrapper. When used to open
+a file in a binary mode, the returned class varies: in read binary
+mode, it returns a BufferedReader; in write binary and append binary
+modes, it returns a BufferedWriter, and in read/write mode, it returns
+a BufferedRandom.
+
+It is also possible to use a string or bytearray as a file for both
+reading and writing. For strings StringIO can be used like a file
+opened in a text mode, and for bytes a BytesIO can be used like a file
+opened in a binary mode. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function open>, 
+Retrieved by type(open) 
+  
+---------------------------------
+Ord <class 'builtin_function_or_method'>
+---------------------------------
+
+Return the Unicode code point for a one-character string. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function ord>, 
+Retrieved by type(ord) 
+  
+---------------------------------
+Pow <class 'builtin_function_or_method'>
+---------------------------------
+
+Equivalent to base**exp with 2 arguments or base**exp % mod with 3 arguments
+
+Some types, such as ints, are able to use a more efficient algorithm when
+invoked using the three argument form. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function pow>, 
+Retrieved by type(pow) 
+  
+---------------------------------
+Print <class 'builtin_function_or_method'>
+---------------------------------
+
+print(value, ..., sep=' ', end='\n', file=sys.stdout, flush=False)
+
+Prints the values to a stream, or to sys.stdout by default.
+Optional keyword arguments:
+file:  a file-like object (stream); defaults to the current sys.stdout.
+sep:   string inserted between values, default a space.
+end:   string appended after the last value, default a newline.
+flush: whether to forcibly flush the stream. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function print>, 
+Retrieved by type(print) 
+  
+---------------------------------
+Property <class 'type'>
+---------------------------------
+
+Property attribute.
+
+  fget
+    function to be used for getting an attribute value
+  fset
+    function to be used for setting an attribute value
+  fdel
+    function to be used for del'ing an attribute
+  doc
+    docstring
+
+Typical use is to define a managed attribute x:
+
+class C(object):
+    def getx(self): return self._x
+    def setx(self, value): self._x = value
+    def delx(self): del self._x
+    x = property(getx, setx, delx, "I'm the 'x' property.")
+
+Decorators make defining new properties or modifying existing ones easy:
+
+class C(object):
+    @property
+    def x(self):
+        "I am the 'x' property."
+        return self._x
+    @x.setter
+    def x(self, value):
+        self._x = value
+    @x.deleter
+    def x(self):
+        del self._x 
+Where: <class 'type'> is the the type of <class 'property'>, 
+Retrieved by type(property) 
+  
+---------------------------------
+Quit <class '_sitebuiltins.Quitter'>
+---------------------------------
+
+None 
+Where: <class '_sitebuiltins.Quitter'> is the the type of Use quit() or Ctrl-Z plus Return to exit, 
+Retrieved by type(quit) 
+  
+---------------------------------
+Range <class 'type'>
+---------------------------------
+
+range(stop) -> range object
+range(start, stop[, step]) -> range object
+
+Return an object that produces a sequence of integers from start (inclusive)
+to stop (exclusive) by step.  range(i, j) produces i, i+1, i+2, ..., j-1.
+start defaults to 0, and stop is omitted!  range(4) produces 0, 1, 2, 3.
+These are exactly the valid indices for a list of 4 elements.
+When step is given, it specifies the increment (or decrement). 
+Where: <class 'type'> is the the type of <class 'range'>, 
+Retrieved by type(range) 
+  
+---------------------------------
+Repr <class 'builtin_function_or_method'>
+---------------------------------
+
+Return the canonical string representation of the object.
+
+For many object types, including most builtins, eval(repr(obj)) == obj. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function repr>, 
+Retrieved by type(repr) 
+  
+---------------------------------
+Reversed <class 'type'>
+---------------------------------
+
+Return a reverse iterator over the values of the given sequence. 
+Where: <class 'type'> is the the type of <class 'reversed'>, 
+Retrieved by type(reversed) 
+  
+---------------------------------
+Round <class 'builtin_function_or_method'>
+---------------------------------
+
+Round a number to a given precision in decimal digits.
+
+The return value is an integer if ndigits is omitted or None.  Otherwise
+the return value has the same type as the number.  ndigits may be negative. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function round>, 
+Retrieved by type(round) 
+  
+---------------------------------
+Set <class 'type'>
+---------------------------------
+
+set() -> new empty set object
+set(iterable) -> new set object
+
+Build an unordered collection of unique elements. 
+Where: <class 'type'> is the the type of <class 'set'>, 
+Retrieved by type(set) 
+  
+---------------------------------
+Setattr <class 'builtin_function_or_method'>
+---------------------------------
+
+Sets the named attribute on the given object to the specified value.
+
+setattr(x, 'y', v) is equivalent to ``x.y = v'' 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function setattr>, 
+Retrieved by type(setattr) 
+  
+---------------------------------
+Slice <class 'type'>
+---------------------------------
+
+slice(stop)
+slice(start, stop[, step])
+
+Create a slice object.  This is used for extended slicing (e.g. a[0:10:2]). 
+Where: <class 'type'> is the the type of <class 'slice'>, 
+Retrieved by type(slice) 
+  
+---------------------------------
+Sorted <class 'builtin_function_or_method'>
+---------------------------------
+
+Return a new list containing all items from the iterable in ascending order.
+
+A custom key function can be supplied to customize the sort order, and the
+reverse flag can be set to request the result in descending order. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function sorted>, 
+Retrieved by type(sorted) 
+  
+---------------------------------
+Staticmethod <class 'type'>
+---------------------------------
+
+staticmethod(function) -> method
+
+Convert a function to be a static method.
+
+A static method does not receive an implicit first argument.
+To declare a static method, use this idiom:
+
+     class C:
+         @staticmethod
+         def f(arg1, arg2, ...):
+             ...
+
+It can be called either on the class (e.g. C.f()) or on an instance
+(e.g. C().f()). Both the class and the instance are ignored, and
+neither is passed implicitly as the first argument to the method.
+
+Static methods in Python are similar to those found in Java or C++.
+For a more advanced concept, see the classmethod builtin. 
+Where: <class 'type'> is the the type of <class 'staticmethod'>, 
+Retrieved by type(staticmethod) 
+  
+---------------------------------
+Str <class 'type'>
+---------------------------------
+
+str(object='') -> str
+str(bytes_or_buffer[, encoding[, errors]]) -> str
+
+Create a new string object from the given object. If encoding or
+errors is specified, then the object must expose a data buffer
+that will be decoded using the given encoding and error handler.
+Otherwise, returns the result of object.__str__() (if defined)
+or repr(object).
+encoding defaults to sys.getdefaultencoding().
+errors defaults to 'strict'. 
+Where: <class 'type'> is the the type of <class 'str'>, 
+Retrieved by type(str) 
+  
+---------------------------------
+Sum <class 'builtin_function_or_method'>
+---------------------------------
+
+Return the sum of a 'start' value (default: 0) plus an iterable of numbers
+
+When the iterable is empty, return the start value.
+This function is intended specifically for use with numeric values and may
+reject non-numeric types. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function sum>, 
+Retrieved by type(sum) 
+  
+---------------------------------
+Super <class 'type'>
+---------------------------------
+
+super() -> same as super(__class__, <first argument>)
+super(type) -> unbound super object
+super(type, obj) -> bound super object; requires isinstance(obj, type)
+super(type, type2) -> bound super object; requires issubclass(type2, type)
+Typical use to call a cooperative superclass method:
+class C(B):
+    def meth(self, arg):
+        super().meth(arg)
+This works for class methods too:
+class C(B):
+    @classmethod
+    def cmeth(cls, arg):
+        super().cmeth(arg)
+ 
+Where: <class 'type'> is the the type of <class 'super'>, 
+Retrieved by type(super) 
+  
+---------------------------------
+Tuple <class 'type'>
+---------------------------------
+
+Built-in immutable sequence.
+
+If no argument is given, the constructor returns an empty tuple.
+If iterable is specified the tuple is initialized from iterable's items.
+
+If the argument is a tuple, the return value is the same object. 
+Where: <class 'type'> is the the type of <class 'tuple'>, 
+Retrieved by type(tuple) 
+  
+---------------------------------
+Type <class 'type'>
+---------------------------------
+
+type(object_or_name, bases, dict)
+type(object) -> the object's type
+type(name, bases, dict) -> a new type 
+Where: <class 'type'> is the the type of <class 'type'>, 
+Retrieved by type(type) 
+  
+---------------------------------
+Vars <class 'builtin_function_or_method'>
+---------------------------------
+
+vars([object]) -> dictionary
+
+Without arguments, equivalent to locals().
+With an argument, equivalent to object.__dict__. 
+Where: <class 'builtin_function_or_method'> is the the type of <built-in function vars>, 
+Retrieved by type(vars) 
+  
+---------------------------------
+Zip <class 'type'>
+---------------------------------
+
+zip(*iterables) --> A zip object yielding tuples until an input is exhausted.
+
+   >>> list(zip('abcdefg', range(3), range(4)))
+   [('a', 0, 0), ('b', 1, 1), ('c', 2, 2)]
+
+The zip object yields n-length tuples, where n is the number of iterables
+passed as positional arguments to zip().  The i-th element in every tuple
+comes from the i-th iterable argument to zip().  This continues until the
+shortest argument is exhausted. 
+Where: <class 'type'> is the the type of <class 'zip'>, 
+Retrieved by type(zip) 
+  

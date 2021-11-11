@@ -1,0 +1,10 @@
+04111E
+Augmented Reality
+Fall 2021
+Suryplakash Kompali
+Paul, Yves, Quants
+S1000:George Williams:80:90:20:100:65
+S1002:Elaine Hazimana:85:81:71:99:89
+S1003:Peter Pathos:70:90:70:95:31
+S1005:Celestine Taylor:60:65:88:99:55
+S1006:Khalil Abdi:67:82:75:32:86

@@ -514,29 +514,38 @@ class MinHeap:
         self.length=0
         self.heap=[]
 
+
     def isEmpty(self):
         return self.length==0
+
 
     def isFull(self):
         return self.length==self.capacity
 
+
     def parent(self,index):
         return (index-1)//2
+
 
     def right(self, index):
         return (index*2)+2
 
+
     def left(self,index):
         return (index*2)+1
 
+
     def getRoot(self):
         return self.heap[0]
+
         
     def getSmall(self):
         return self.heap[0]
 
+
     def getLast(self):
-        return self.heap[self.length-1]        
+        return self.heap[self.length-1]  
+
 
     def addNode(self,value):
         if self.isFull():
@@ -549,10 +558,16 @@ class MinHeap:
                 self.insertHeapify(self.length)
             self.length+=1
 
+    
+    def getCapacity(self):
+        return self.capacity
+
+
     def insertHeapify(self, index):
         if index > 0 and self.heap[index]<self.heap[self.parent(index)]:
             self.heap[index],self.heap[self.parent(index)]=(self.heap[self.parent(index)], self.heap[index])
             self.insertHeapify(self.parent(index))
+
 
     def show(self):
         if self.isEmpty():
@@ -564,8 +579,10 @@ class MinHeap:
             print()
             print(f"Size = {self.length}, Root = {self.getRoot()} and Last = {self.getLast()}")   
 
+
     def increaseHeap(self, n):
         self.capacity+=n
+
 
     def extractMin(self):
         if not self.isEmpty():
@@ -578,9 +595,9 @@ class MinHeap:
             self.length-=1
             self.deleteHeapify(0)
             return r
-           
         else:
-            print("I am sorry, the heap is empty")
+            print("Oops, the heap is empty")
+
 
     def deleteHeapify(self,index):
         if self.left(index) < self.length and self.right(index) < self.length:
@@ -590,22 +607,138 @@ class MinHeap:
                     self.deleteHeapify(self.left(index))
                 else:
                     self.heap[self.right(index)], self.heap[index]= (self.heap[index],self.heap[self.right(index)])
-                    self.deleteHeapify(self.right(index))
-                    
+                    self.deleteHeapify(self.right(index))     
         elif self.left(index) < self.length and not (self.right(index) < self.length):
             if self.heap[self.left(index)] < self.heap[index]:
                 self.heap[self.left(index)], self.heap[index]= (self.heap[index],self.heap[self.left(index)])
                 self.deleteHeapify(self.left(index))
-
         else:
             pass
 
 
 
-            
-            
-            
+# Let maxHeap do MaxHeap here also
+#  Maxheap is a data structure that users a binary tree logic.
+"""
+The logic is, it is a binary tree that makes sure that a mximum number in a tree is always the root of a tree.
 
+and all children nodes are smaller than their parent node
+"""
+
+def explainMaxHeap():
+    print("""This is a MinHeap Data structure. This data structure can be used fro solving
+    priority queues question. The logic is, the root of the tre is always the smallest element in the tree.
+    In addition, it is unsured that parent node is smaller than its children nodes.
+    
+     This data structure has different functions:
+     1. isEmpty()
+     2. addNode(value)
+     3. pop()
+     4. extendHeap(newSiz)
+     5. extractMin()
+     6. getRoot() = getSmall()
+     7. getLast()
+      """)
+
+class MaxHeap:
+    def __init__(self, capacity):
+        self.capacity=capacity
+        self.heap=[]
+
+
+    def isEmpty(self):
+        return len(self.heap)==0
+
+
+    def isFull(self):
+        return len(self.heap)==self.capacity
+
+
+    def increaseHeap(self,n):
+        self.capacity=self.capacity+n
+
+
+    def getCapacity(self):
+        return self.capacity
+
+
+    def parent(self,index):
+        return (index-1)//2
+
+
+    def right(self, index):
+        return (index*2)+2
+
+
+    def left(self,index):
+        return (index*2)+1
+
+
+    def getRoot(self):
+        return self.heap[0]
+
+        
+    def getLarge(self):
+        return self.heap[0]
+
+
+    def getLast(self):
+        return self.heap[-1]  
 
     
-            
+    def addNode(self, value):
+        if self.isFull():
+            print(f"I am sorry, {value} could not be added, because the heap is full")
+        else:
+            if len(self.heap)==0:
+                self.heap.append(value)
+            else:
+                self.heap.append(value)
+                self.insertHeapify(len(self.heap)-1)
+
+
+    def insertHeapify(self, index):
+        if index > 0 and self.heap[index]>self.heap[self.parent(index)]:
+            self.heap[index],self.heap[self.parent(index)]=(self.heap[self.parent(index)], self.heap[index])
+            self.insertHeapify(self.parent(index))
+
+
+    def show(self):
+        if self.isEmpty():
+            print(f"The Heap is empty.")
+        else:
+            for i in range(len(self.heap)):
+                print(f"{self.heap[i]} ",end='')
+            print()
+            print()
+            print(f"Size = {len(self.heap)}, Root = {self.getRoot()} and Last = {self.getLast()}")
+
+
+    def extractMax(self):
+        if not self.isEmpty():
+            if len(self.heap) == 1:
+                return self.heap.pop()
+            r=self.heap[0]
+            self.heap[0]=self.heap[-1]
+            self.heap.pop()
+            self.deleteHeapify(0)
+            return r
+        else:
+            print("Oops, the heap is empty")
+
+
+    def deleteHeapify(self,index):
+        if self.left(index) < len(self.heap) and self.right(index) < len(self.heap):
+            if self.heap[self.left(index)] > self.heap[index] or self.heap[self.right(index)] > self.heap[index] :
+                if self.heap[self.left(index)] >= self.heap[self.right(index)]:
+                    self.heap[self.left(index)], self.heap[index]= (self.heap[index],self.heap[self.left(index)])
+                    self.deleteHeapify(self.left(index))
+                else:
+                    self.heap[self.right(index)], self.heap[index]= (self.heap[index],self.heap[self.right(index)])
+                    self.deleteHeapify(self.right(index))     
+        elif self.left(index) < len(self.heap) and not (self.right(index) < len(self.heap)):
+            if self.heap[self.left(index)] > self.heap[index]:
+                self.heap[self.left(index)], self.heap[index]= (self.heap[index],self.heap[self.left(index)])
+                self.deleteHeapify(self.left(index))
+        else:
+            pass 

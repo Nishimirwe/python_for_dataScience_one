@@ -1,0 +1,45 @@
+----------------------------------------------- 
+S1000   George Williams 
+ 
+04808E   Programming and Problem Solving II  83.6   B
+04500P   Entrepreneurship  79.8   C
+04444P   Data structures  79.8   C
+0000P   English  79.8   C
+0444E   DPSD  79.8   C
+----------------------------------------------- 
+----------------------------------------------- 
+S1002   Elaine Hazimana 
+ 
+04808E   Programming and Problem Solving II  87.4   B
+04500P   Entrepreneurship  87.4   B
+04444P   Data structures  87.4   B
+0000P   English  87.4   B
+0444E   DPSD  87.4   B
+----------------------------------------------- 
+----------------------------------------------- 
+S1003   Peter Pathos 
+ 
+04808E   Programming and Problem Solving II  83.2   B
+04500P   Entrepreneurship  83.2   B
+04444P   Data structures  83.2   B
+0000P   English  83.2   B
+0444E   DPSD  83.2   B
+----------------------------------------------- 
+----------------------------------------------- 
+S1005   Celestine Taylor 
+ 
+04808E   Programming and Problem Solving II  88.4   B
+04500P   Entrepreneurship  88.4   B
+04444P   Data structures  11.2   E
+0000P   English  88.4   B
+0444E   DPSD  88.4   B
+----------------------------------------------- 
+----------------------------------------------- 
+S1006   Khalil Abdi 
+ 
+04808E   Programming and Problem Solving II  83.0   B
+04500P   Entrepreneurship  6.4   E
+04444P   Data structures  3.8   E
+0000P   English  83.0   B
+0444E   DPSD  3.0   E
+----------------------------------------------- 
